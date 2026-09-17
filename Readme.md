@@ -110,3 +110,10 @@ Identified products with high potential savings and high price per gram.
 ## 💡 Skills Demonstrated
 
 **Excel • Data Cleaning • Exploratory Data Analysis • PivotTables • PivotCharts • Slicers • Data Visualization • Dashboarding • Business Analysis**
+
+## 👨‍💻 Author
+Naaef Khan
+
+Data Science | Excel | Data Analysis | Data Visualization
+
+Project Focus: Zepto Product & Inventory Analysis
