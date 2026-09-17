@@ -67,7 +67,7 @@ The interactive dashboard provides:
 
 ### Dashboard Preview
 
-![Zepto Dashboard](images/dashboard.png)
+![Zepto Dashboard](dashboard.png)
 
 ## 🔍 Key Insights
 
